@@ -10,10 +10,10 @@ const Example = () => {
     const [score, setScore] = useState<number>(0);
 
     const { unityProvider, sendMessage, addEventListener, removeEventListener, isLoaded, loadingProgression  } = useUnityContext({
-        loaderUrl: "/data/Snake.loader.js",
-        dataUrl: "/data/Snake.data.br",
-        frameworkUrl: "/data/Snake.framework.js.br",
-        codeUrl: "/data/Snake.wasm.br",
+        loaderUrl: "/data/chrome-dinosaur.loader.js",
+        dataUrl: "/data/chrome-dinosaur.data.br",
+        frameworkUrl: "/data/chrome-dinosaur.framework.js.br",
+        codeUrl: "/data/chrome-dinosaur.wasm.br",
     });
 
 
@@ -52,8 +52,8 @@ const Example = () => {
 
         {renderContent()}
 
-        <Button onClick={send}>Set PrevScroe</Button>
-        <div>current score: {score}</div>
+        {/*<Button onClick={send}>Set PrevScroe</Button>*/}
+        {/*<div>current score: {score}</div>*/}
     </div>;
 };
 
