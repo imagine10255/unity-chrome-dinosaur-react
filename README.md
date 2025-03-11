@@ -1,7 +1,7 @@
 #  Unity 練習 - Chrome dinosaur
 
-<a href="https://imagine-unity-snake.pages.dev" title="Unity Snake React">
-    <img src="https://github.com/imagine10255/unity-snake-react/blob/58c849623d032a4af9a148b3c08c9a3d96cba10e/preview.png" alt="Unity Snake React"/>
+<a href="https://imagine-unity-chrome-dinosaur.pages.dev" title="Unity Snake React">
+    <img src="https://github.com/imagine10255/unity-chrome-dinosaur-react/blob/58c849623d032a4af9a148b3c08c9a3d96cba10e/preview.png" alt="Unity Snake React"/>
 </a>
 
 
